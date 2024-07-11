@@ -1,0 +1,241 @@
+[
+  {
+    "title": "Blurry fonts",
+    "status": "IN_PROGRESS",
+    "createdBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "createdDate": "2024-01-03T20:18:05.833Z",
+    "modifiedBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "modifiedDate": "2024-01-03T20:18:05.833Z",
+    "assignee": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "project": {
+      "title": "COOL-PROJECT",
+      "status": "IN_PROGRESS"
+    },
+    "comments": [
+      {
+        "id": "12345",
+        "timestamp": "2024-01-03T20:18:05.833Z",
+        "text": "This is a comment",
+        "owner": {
+          "id": "12345",
+          "name": "John Doe",
+          "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+        }
+      }
+    ],
+    "tags": [],
+    "resolved": false
+  },
+  {
+    "title": "Refactor code",
+    "status": "ON_HOLD",
+    "createdBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "createdDate": "2024-01-03T20:18:05.833Z",
+    "modifiedBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "modifiedDate": "2024-01-03T20:18:05.833Z",
+    "assignee": {
+      "id": "12346",
+      "name": "Gareth Southgate",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Gareth+Southgate"
+    },
+    "project": {
+      "title": "COOL-PROJECT",
+      "status": "IN_PROGRESS"
+    },
+    "comments": [
+      {
+        "id": "12345",
+        "timestamp": "2024-01-03T20:18:05.833Z",
+        "text": "This is a comment",
+        "owner": {
+          "id": "12345",
+          "name": "John Doe",
+          "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+        }
+      },
+      {
+        "id": "12345",
+        "timestamp": "2024-01-03T20:18:05.833Z",
+        "text": "This is a comment",
+        "owner": {
+          "id": "12345",
+          "name": "John Doe",
+          "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+        }
+      }
+    ],
+    "tags": [
+      {
+        "text": "Typescript"
+      },
+      {
+        "text": "JS"
+      }
+    ],
+    "resolved": false
+  },
+  {
+    "title": "Builds fail with an exception",
+    "status": "ON_HOLD",
+    "createdBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "createdDate": "2024-01-03T20:18:05.833Z",
+    "modifiedBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "modifiedDate": "2024-01-03T20:18:05.833Z",
+    "assignee": {
+      "id": "12347",
+      "name": "Jurgen Klopp",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Jurgen+Klopp"
+    },
+    "project": {
+      "title": "COOL-PROJECT",
+      "status": "IN_PROGRESS"
+    },
+    "comments": [],
+    "tags": [
+      {
+        "text": "Cloud"
+      },
+      {
+        "text": "Amazon"
+      },
+      {
+        "text": "CI/CD"
+      }
+    ],
+    "resolved": false
+  },
+  {
+    "title": "Cannot log in as guest",
+    "status": "SCHEDULED_WORK",
+    "createdBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "createdDate": "2024-01-03T20:18:05.833Z",
+    "modifiedBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "modifiedDate": "2024-01-03T20:18:05.833Z",
+    "assignee": {
+      "id": "12348",
+      "name": "Larry David",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Larry+David"
+    },
+    "project": {
+      "title": "COOL-PROJECT",
+      "status": "IN_PROGRESS"
+    },
+    "comments": [],
+    "tags": [],
+    "resolved": false
+  },
+  {
+    "title": "Blurry fonts 2",
+    "status": "ON_HOLD",
+    "createdBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "createdDate": "2024-01-03T20:18:05.833Z",
+    "modifiedBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "modifiedDate": "2024-01-03T20:18:05.833Z",
+    "assignee": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "project": {
+      "title": "COOL-PROJECT",
+      "status": "IN_PROGRESS"
+    },
+    "comments": [
+      {
+        "id": "12345",
+        "timestamp": "2024-01-03T20:18:05.833Z",
+        "text": "This is a comment",
+        "owner": {
+          "id": "12345",
+          "name": "John Doe",
+          "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+        }
+      }
+    ],
+    "tags": [],
+    "resolved": false
+  },
+  {
+    "title": "Blurry fonts 3",
+    "status": "SCHEDULED_WORK",
+    "createdBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "createdDate": "2024-01-03T20:18:05.833Z",
+    "modifiedBy": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "modifiedDate": "2024-01-03T20:18:05.833Z",
+    "assignee": {
+      "id": "12345",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+    },
+    "project": {
+      "title": "COOL-PROJECT",
+      "status": "IN_PROGRESS"
+    },
+    "comments": [
+      {
+        "id": "12345",
+        "timestamp": "2024-01-03T20:18:05.833Z",
+        "text": "This is a comment",
+        "owner": {
+          "id": "12345",
+          "name": "John Doe",
+          "avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff"
+        }
+      }
+    ],
+    "tags": [],
+    "resolved": false
+  }
+]
